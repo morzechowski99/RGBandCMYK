@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGBandCMYK", "RGBandCMYK\RGBandCMYK.csproj", "{81430D0C-1B3F-4A61-8E0B-A99A19F17801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81430D0C-1B3F-4A61-8E0B-A99A19F17801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81430D0C-1B3F-4A61-8E0B-A99A19F17801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81430D0C-1B3F-4A61-8E0B-A99A19F17801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81430D0C-1B3F-4A61-8E0B-A99A19F17801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFCDF0C8-32EF-47B8-A292-EDFD93DCBA5C}
+	EndGlobalSection
+EndGlobal
